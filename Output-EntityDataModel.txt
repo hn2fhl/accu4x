@@ -1,0 +1,4 @@
+﻿Could not parse the configuration file. The error message is: 'The 'data source' keyword is not supported.'. Try editing the file manually and then saving it.
+The model was generated with warnings or errors.CurrencyDataModel.edmxPlease see the Error List for more details. These issues must be fixed before running your application.
+Loading metadata from the database took 00:00:02.3153725.
+Generating the model took 00:00:09.3106249.
